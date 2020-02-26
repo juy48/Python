@@ -1,7 +1,3 @@
-
-    Email id: jc9dn
-'''
-
 # get url reading abilities
 import url
 
@@ -35,6 +31,3 @@ while ( looking_for_commodity ):
         print('pricing unknown')
         print()
 
-
-
-# all done
